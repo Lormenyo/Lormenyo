@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -56,6 +57,11 @@ Here are some ideas to get you started:
 
 ### Github Stats
 ![image](https://github-readme-stats.vercel.app/api?username=Lormenyo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 [website]: https://hannah-lormenyo.netlify.com/
