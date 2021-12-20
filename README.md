@@ -59,11 +59,15 @@ Here are some ideas to get you started:
 ![image](https://github-readme-stats.vercel.app/api?username=Lormenyo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
-### Latest Blog posts
+### Latest Blog posts from dev.to
 <!-- BLOG-POST-LIST:START -->
 - [Unmarshalling the Marshalled: XML BINDING IN JAVA](https://dev.to/lormenyo/unmarshalling-the-marshalled-xml-binding-in-java-2do0)
 <!-- BLOG-POST-LIST:END -->
 
+
+### Latest Blog posts from Medium
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lormenyoh/0" alt="Recent Article 0"> 
+  
 
 [website]: https://hannah-lormenyo.netlify.com/
 <!-- [course]: http://vsCodeHero.com -->
