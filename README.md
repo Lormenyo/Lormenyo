@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unmarshalling the Marshalled: XML BINDING IN JAVA](https://dev.to/lormenyo/unmarshalling-the-marshalled-xml-binding-in-java-2do0)
 <!-- BLOG-POST-LIST:END -->
 
 
