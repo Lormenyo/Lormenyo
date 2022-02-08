@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+[![Twitter Badge](https://img.shields.io/badge/-@blesed_hl-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/blessed_hl)](https://twitter.com/blessed_hl) [![Linkedin Badge](https://img.shields.io/badge/-Lormenyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hannah-lormenyo/)](https://www.linkedin.com/in/hannah-lormenyo/)
 
 - 🔭 I’m currently working on an Algorithmic Trading bot.
 - 🌱 I’m currently learning React/React-Native and Spring.
