@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 [<img align="left" alt="Hannah Lormenyo" width="22px" src="https://img.icons8.com/office/30/000000/globe.png" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="Hannah | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="Hannah Lormenyo | Twitter" width="28px" src="https://img.icons8.com/color/240/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Hannah Lormenyo | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
 <!-- [<img align="left" alt="Hannah Lormenyo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 [website]: https://hannah-lormenyo.netlify.com/
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/blessed_hl
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
+[youtube]: https://www.youtube.com/channel/UC-gxy0AHhZDIRAzCuIBjsAQ
 [instagram]: https://instagram.com/blessed_hl
 [linkedin]: https://www.linkedin.com/in/hannah-lormenyo/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
