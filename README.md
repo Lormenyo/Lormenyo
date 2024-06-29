@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lormenyoh/0" alt="Recent Article 0"> 
   
 
-[website]: https://hannah-lormenyo.netlify.com/
+[website]: https://hannahlormenyo.netlify.app
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/blessed_hl
 [youtube]: https://www.youtube.com/channel/UC-gxy0AHhZDIRAzCuIBjsAQ
