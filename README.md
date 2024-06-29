@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Connect with me:
-[<img align="left" alt="Hannah Lormenyo" width="22px" src="https://img.icons8.com/office/30/000000/globe.png" />][website]
+[<img align="left" alt="Hannah Lormenyo" width="22px" src="https://img.icons8.com/ios/50/globe--v1.png" />][website]
 [<img align="left" alt="Hannah | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="Hannah Lormenyo | Twitter" width="28px" src="https://img.icons8.com/color/240/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Hannah Lormenyo | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
